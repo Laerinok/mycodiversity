@@ -195,4 +195,155 @@
 	"game:meal-ingredient-stew-secondary-mushroom-redbeltedconk-normal-*": "Red belted conk",
 	"game:meal-ingredient-stew-secondary-mushroom-turkeytail-normal-*": "Turkey tail",
 	"game:meal-ingredient-stew-secondary-mushroom-westernvarnishedconk-normal-*": "Western varnished conk",
+
+  "substrate:mushroom-artistsconk": "Artist's conk",
+  "substrate:block-sporepaperprinted-artistsconk-*": "Imprinted Spore Paper (Artist's conk)",
+  "substrate:item-sporeprint-artistsconk": "Spore Print (Artist's conk)",
+
+  "substrate:mushroom-beefsteakfungus": "Beefsteak fungus",
+  "substrate:block-sporepaperprinted-beefsteakfungus-*": "Imprinted Spore Paper (Beefsteak fungus)",
+  "substrate:item-sporeprint-beefsteakfungus": "Spore Print (Beefsteak fungus)",
+
+  "substrate:mushroom-redbeltedconk": "Red belted conk",
+  "substrate:block-sporepaperprinted-redbeltedconk-*": "Imprinted Spore Paper (Red belted conk)",
+  "substrate:item-sporeprint-redbeltedconk": "Spore Print (Red belted conk)",
+
+  "substrate:mushroom-turkeytail": "Turkey tail",
+  "substrate:block-sporepaperprinted-turkeytail-*": "Imprinted Spore Paper (Turkey tail)",
+  "substrate:item-sporeprint-turkeytail": "Spore Print (Turkey tail)",
+
+  "substrate:mushroom-westernvarnishedconk": "Western varnished conk",
+  "substrate:block-sporepaperprinted-westernvarnishedconk-*": "Imprinted Spore Paper (Western varnished conk)",
+  "substrate:item-sporeprint-westernvarnishedconk": "Spore Print (Western varnished conk)",
+
+
+
+  "substrate:mushroom-aniseedfunnel": "Aniseed funnel",
+  "substrate:block-sporepaperprinted-aniseedfunnel-*": "Imprinted Spore Paper (Aniseed funnel)",
+  "substrate:item-sporeprint-aniseedfunnel": "Spore Print (Aniseed funnel)",
+
+  "substrate:mushroom-aspenbolete": "Aspen bolete",
+  "substrate:block-sporepaperprinted-aspenbolete-*": "Imprinted Spore Paper (Aspen bolete)",
+  "substrate:item-sporeprint-aspenbolete": "Spore Print (Aspen bolete)",
+
+  "substrate:mushroom-birchbolete": "Birch bolete",
+  "substrate:block-sporepaperprinted-birchbolete-*": "Imprinted Spore Paper (Birch bolete)",
+  "substrate:item-sporeprint-birchbolete": "Spore Print (Birch bolete)",
+
+  "substrate:mushroom-blewit": "Blewit",
+  "substrate:block-sporepaperprinted-blewit-*": "Imprinted Spore Paper (Blewit)",
+  "substrate:item-sporeprint-blewit": "Spore Print (Blewit)",
+
+  "substrate:mushroom-bluechanterelle": "Blue chanterelle",
+  "substrate:block-sporepaperprinted-bluechanterelle-*": "Imprinted Spore Paper (Blue chanterelle)",
+  "substrate:item-sporeprint-bluechanterelle": "Spore Print (Blue chanterelle)",
+
+  "substrate:mushroom-candycap": "Candy cap",
+  "substrate:block-sporepaperprinted-candycap-*": "Imprinted Spore Paper (Candy cap)",
+  "substrate:item-sporeprint-candycap": "Spore Print (Candy cap)",
+
+  "substrate:mushroom-coccora": "Coccora",
+  "substrate:block-sporepaperprinted-coccora-*": "Imprinted Spore Paper (Coccora)",
+  "substrate:item-sporeprint-coccora": "Spore Print (Coccora)",
+
+  "substrate:mushroom-desertshaggymane": "Desert shaggy mane",
+  "substrate:block-sporepaperprinted-desertshaggymane-*": "Imprinted Spore Paper (Desert shaggy mane)",
+  "substrate:item-sporeprint-desertshaggymane": "Spore Print (Desert shaggy mane)",
+
+  "substrate:mushroom-destroyingangel": "Destroying angel",
+  "substrate:block-sporepaperprinted-destroyingangel-*": "Imprinted Spore Paper (Destroying angel)",
+  "substrate:item-sporeprint-destroyingangel": "Spore Print (Destroying angel)",
+
+  "substrate:mushroom-dyerspolypore": "Dyer's polypore",
+  "substrate:block-sporepaperprinted-dyerspolypore-*": "Imprinted Spore Paper (Dyer's polypore)",
+  "substrate:item-sporeprint-dyerspolypore": "Spore Print (Dyer's polypore)",
+
+  "substrate:mushroom-falseearthstar": "False earthstar",
+  "substrate:block-sporepaperprinted-falseearthstar-*": "Imprinted Spore Paper (False earthstar)",
+  "substrate:item-sporeprint-falseearthstar": "Spore Print (False earthstar)",
+
+  "substrate:mushroom-flattoppedclubcoral": "Flat-topped club coral",
+  "substrate:block-sporepaperprinted-flattoppedclubcoral-*": "Imprinted Spore Paper (Flat-topped club coral",
+  "substrate:item-sporeprint-flattoppedclubcoral": "Spore Print (Flat-topped club coral)",
+
+  "substrate:mushroom-friedchickenmushroom": "Fried chicken mushroom",
+  "substrate:block-sporepaperprinted-friedchickenmushroom-*": "Imprinted Spore Paper (Fried chicken mushroom)",
+  "substrate:item-sporeprint-friedchickenmushroom": "Spore Print (Fried chicken mushroom)",
+
+  "substrate:mushroom-greenearthtongue": "Green earth tongue",
+  "substrate:block-sporepaperprinted-greenearthtongue-*": "Imprinted Spore Paper (Green earth tongue)",
+  "substrate:item-sporeprint-greenearthtongue": "Spore Print (Green earth tongue)",
+
+  "substrate:mushroom-hawkwing": "Hawk wing",
+  "substrate:block-sporepaperprinted-hawkwing-*": "Imprinted Spore Paper (Hawk wing)",
+  "substrate:item-sporeprint-hawkwing": "Spore Print (Hawk wing)",
+
+  "substrate:mushroom-hedgehogmushroom": "Hedgehog",
+  "substrate:block-sporepaperprinted-hedgehogmushroom-*": "Imprinted Spore Paper (Hedgehog)",
+  "substrate:item-sporeprint-hedgehogmushroom": "Spore Print (Hedgehog)",
+
+  "substrate:mushroom-honeymushroom": "Honey mushroom",
+  "substrate:block-sporepaperprinted-honeymushroom-*": "Imprinted Spore Paper (Honey mushroom)",
+  "substrate:item-sporeprint-honeymushroom": "Spore Print (Honey mushroom)",
+
+  "substrate:mushroom-matsutake": "Matsutake",
+  "substrate:block-sporepaperprinted-matsutake-*": "Imprinted Spore Paper (Matsutake)",
+  "substrate:item-sporeprint-matsutake": "Spore Print (Matsutake)",
+
+  "substrate:mushroom-northernreddye": "Bloodred webcap",
+  "substrate:block-sporepaperprinted-northernreddye-*": "Imprinted Spore Paper (Bloodred webcap)",
+  "substrate:item-sporeprint-northernreddye": "Spore Print (Bloodred webcap)",
+
+  "substrate:mushroom-parasol": "Parasol",
+  "substrate:block-sporepaperprinted-parasol-*": "Imprinted Spore Paper (Parasol)",
+  "substrate:item-sporeprint-parasol": "Spore Print (Parasol)",
+
+  "substrate:mushroom-purplefairyclub": "Purple fairy club",
+  "substrate:block-sporepaperprinted-purplefairyclub-*": "Imprinted Spore Paper (Purple fairy club)",
+  "substrate:item-sporeprint-purplefairyclub": "Spore Print (Purple fairy club)",
+
+  "substrate:mushroom-queenbolete": "Queen bolete",
+  "substrate:block-sporepaperprinted-queenbolete-*": "Imprinted Spore Paper (Queen bolete)",
+  "substrate:item-sporeprint-queenbolete": "Spore Print (Queen bolete)",
+
+  "substrate:mushroom-questionablestropharia": "Questionable stropharia",
+  "substrate:block-sporepaperprinted-questionablestropharia-*": "Imprinted Spore Paper (Questionable stropharia)",
+  "substrate:item-sporeprint-questionablestropharia": "Spore Print (Questionable stropharia)",
+
+  "substrate:mushroom-redramaria": "Red ramaria",
+  "substrate:block-sporepaperprinted-redramaria-*": "Imprinted Spore Paper (Red ramaria)",
+  "substrate:item-sporeprint-redramaria": "Spore Print (Red ramaria)",
+
+  "substrate:mushroom-shaggymane": "Shaggy mane",
+  "substrate:block-sporepaperprinted-shaggymane-*": "Imprinted Spore Paper (Shaggy mane)",
+  "substrate:item-sporeprint-shaggymane": "Spore Print (Shaggy mane)",
+
+  "substrate:mushroom-shrimpmushroom": "Shrimp mushroom",
+  "substrate:block-sporepaperprinted-shrimpmushroom-*": "Imprinted Spore Paper (Shrimp mushroom)",
+  "substrate:item-sporeprint-shrimpmushroom": "Spore Print (Shrimp mushroom)",
+
+  "substrate:mushroom-slipperyjack": "Slippery jack",
+  "substrate:block-sporepaperprinted-slipperyjack-*": "Imprinted Spore Paper (Slippery jack)",
+  "substrate:item-sporeprint-slipperyjack": "Spore Print (Slippery jack)",
+
+  "substrate:mushroom-stinkhorn": "Stinkhorn",
+  "substrate:block-sporepaperprinted-stinkhorn-*": "Imprinted Spore Paper (Stinkhorn)",
+  "substrate:item-sporeprint-stinkhorn": "Spore Print (Stinkhorn)",
+
+  "substrate:mushroom-sulfurtuft": "Sulfur tuft",
+  "substrate:block-sporepaperprinted-sulfurtuft-*": "Imprinted Spore Paper (Sulfur tuft)",
+  "substrate:item-sporeprint-sulfurtuft": "Spore Print (Sulfur tuft)",
+
+  "substrate:mushroom-winterchanterelle": "Winter chanterelle",
+  "substrate:block-sporepaperprinted-winterchanterelle-*": "Imprinted Spore Paper (Winter chanterelle)",
+  "substrate:item-sporeprint-winterchanterelle": "Spore Print (Winter chanterelle)",
+
+  "substrate:mushroom-yellowramaria": "Yellow ramaria",
+  "substrate:block-sporepaperprinted-yellowramaria-*": "Imprinted Spore Paper (Yellow ramaria)",
+  "substrate:item-sporeprint-yellowramaria": "Spore Print (Yellow ramaria)",
+
+  "substrate:mushroom-yellowstainer": "Yellow stainer",
+  "substrate:block-sporepaperprinted-yellowstainer-*": "Imprinted Spore Paper (Yellow stainer)",
+  "substrate:item-sporeprint-yellowstainer": "Spore Print (Yellow stainer)",
+
 }

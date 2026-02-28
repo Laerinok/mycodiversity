@@ -1,372 +1,372 @@
 [
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-aniseedfunnel-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-aniseedfunnel-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-artistsconk-normal-north",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-artistsconk-normal-north",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-aspenbolete-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-aspenbolete-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-beefsteakfungus-normal-north",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-beefsteakfungus-normal-north",
     "value": [
       "vegetable",
       "group2"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-birchbolete-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-birchbolete-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-blewit-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-blewit-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-bluechanterelle-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-bluechanterelle-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-candycap-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-candycap-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-coccora-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-coccora-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-desertshaggymane-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-desertshaggymane-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-destroyingangel-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-destroyingangel-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-dyerspolypore-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-dyerspolypore-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-falseearthstar-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-falseearthstar-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-flattoppedclubcoral-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-flattoppedclubcoral-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-friedchickenmushroom-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-friedchickenmushroom-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-greenearthtongue-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-greenearthtongue-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-hawkwing-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-hawkwing-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-hedgehogmushroom-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-hedgehogmushroom-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-honeymushroom-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-honeymushroom-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-matsutake-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-matsutake-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-northernreddye-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-northernreddye-normal",
     "value": [
       "vegetable",
       "group2"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-parasol-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-parasol-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-purplefairyclub-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-purplefairyclub-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-queenbolete-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-queenbolete-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-questionablestropharia-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-questionablestropharia-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-redbeltedconk-normal-north",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-redbeltedconk-normal-north",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-redramaria-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-redramaria-normal",
     "value": [
       "vegetable",
       "group2"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-shaggymane-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-shaggymane-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-shrimpmushroom-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-shrimpmushroom-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-slipperyjack-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-slipperyjack-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-stinkhorn-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-stinkhorn-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-sulfurtuft-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-sulfurtuft-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-turkeytail-normal-north",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-turkeytail-normal-north",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-westernvarnishedconk-normal-north",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-westernvarnishedconk-normal-north",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-winterchanterelle-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-winterchanterelle-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-yellowramaria-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-yellowramaria-normal",
     "value": [
       "vegetable",
       "group3"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-cooked/textureMapping/mushroom-yellowstainer-normal",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-yellowstainer-normal",
     "value": [
       "vegetable",
       "group7"
     ],
-    "file": "game:blocktypes/clay/pot.json",
+    "file": "game:blocktypes/clay/fired/pot.json",
     "side": "Server"
   }
 ]
