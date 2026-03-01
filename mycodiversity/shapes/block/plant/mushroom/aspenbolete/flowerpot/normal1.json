@@ -1,0 +1,83 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textureSizes": {
+	},
+	"textures": {
+		"aspenbolete": "mycodiversity:block/plant/mushroom/aspenbolete/aspenbolete"
+	},
+	"elements": [
+		{
+			"name": "origin",
+			"from": [ 8.0, 0.0, 8.0 ],
+			"to": [ 8.0, 0.0, 8.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+			},
+			"children": [
+				{
+					"name": "large",
+					"from": [ -1.6, -0.4, -1.5 ],
+					"to": [ 1.4, 2.1, 1.5 ],
+					"rotationOrigin": [ -0.1, -0.4, 0.0 ],
+					"rotationY": 22.5,
+					"faces": {
+						"north": { "texture": "#aspenbolete", "uv": [ 11.5, 9.5, 14.5, 12.0 ] },
+						"east": { "texture": "#aspenbolete", "uv": [ 9.5, 11.5, 12.5, 14.0 ] },
+						"south": { "texture": "#aspenbolete", "uv": [ 10.5, 11.5, 13.5, 14.0 ] },
+						"west": { "texture": "#aspenbolete", "uv": [ 10.0, 11.5, 13.0, 14.0 ] },
+						"down": { "texture": "#aspenbolete", "uv": [ 10.5, 13.0, 13.5, 16.0 ] }
+					},
+					"children": [
+						{
+							"name": "Cube16",
+							"from": [ -0.8, 2.5, -0.8 ],
+							"to": [ 3.7, 5.0, 3.7 ],
+							"faces": {
+								"north": { "texture": "#aspenbolete", "uv": [ 0.5, 3.5, 5.0, 6.0 ] },
+								"east": { "texture": "#aspenbolete", "uv": [ 1.0, 2.5, 5.5, 5.0 ] },
+								"south": { "texture": "#aspenbolete", "uv": [ 2.0, 2.0, 6.5, 4.5 ] },
+								"west": { "texture": "#aspenbolete", "uv": [ 1.5, 2.5, 6.0, 5.0 ] },
+								"up": { "texture": "#aspenbolete", "uv": [ 2.5, 1.0, 7.0, 5.5 ] },
+								"down": { "texture": "#aspenbolete", "uv": [ 2.0, 9.5, 6.5, 14.0 ] }
+							},
+							"children": [
+								{
+									"name": "Cube23",
+									"from": [ 0.5, 2.5, 0.5 ],
+									"to": [ 4.0, 3.0, 4.0 ],
+									"rotationOrigin": [ -3.5, 0.0, -3.5 ],
+									"faces": {
+										"north": { "texture": "#aspenbolete", "uv": [ 3.5, 5.0, 7.0, 5.5 ] },
+										"east": { "texture": "#aspenbolete", "uv": [ 2.5, 5.5, 6.0, 6.0 ] },
+										"south": { "texture": "#aspenbolete", "uv": [ 3.5, 1.5, 7.0, 2.0 ] },
+										"west": { "texture": "#aspenbolete", "uv": [ 3.0, 5.0, 6.5, 5.5 ] },
+										"up": { "texture": "#aspenbolete", "uv": [ 2.0, 2.5, 5.5, 6.0 ] }
+									},
+									"children": [
+										{
+											"name": "Cube24",
+											"from": [ 0.5, 0.5, 0.5 ],
+											"to": [ 3.0, 1.0, 3.0 ],
+											"rotationOrigin": [ 3.5, 0.0, 3.5 ],
+											"faces": {
+												"north": { "texture": "#aspenbolete", "uv": [ 4.0, 4.0, 6.5, 4.5 ] },
+												"east": { "texture": "#aspenbolete", "uv": [ 2.5, 2.5, 5.0, 3.0 ] },
+												"south": { "texture": "#aspenbolete", "uv": [ 3.5, 3.5, 6.0, 4.0 ] },
+												"west": { "texture": "#aspenbolete", "uv": [ 2.5, 4.5, 5.0, 5.0 ] },
+												"up": { "texture": "#aspenbolete", "uv": [ 2.5, 3.0, 5.0, 5.5 ] }
+											}
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]}

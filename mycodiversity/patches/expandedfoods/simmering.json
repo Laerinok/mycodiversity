@@ -1,0 +1,42 @@
+[
+  {
+    "file": "expandedfoods:recipes/simmering/choppedmushroom.json",
+    "op": "addmerge",
+    "path": "/-",
+    "value": {
+      "Ingredients": [
+        { "type": "item", "code": "game:waterportion", "quantity": 50 },
+        { "type": "item", "code": "mycodiversity:choppedmushroom-*", "quantity": 1, "name": "mushroom" }
+      ],
+      "Simmering": {
+        "meltingPoint": 200,
+        "meltingDuration": 10,
+        "smeltedRatio": 1,
+        "smeltingType": "bake",
+        "smeltedStack": { "type": "item", "code": "mycodiversity:cookedchoppedmushroom-{mushroom}-perfect", "quantity": 1 },
+        "requiresContainer": false
+      }
+    },
+    "dependsOn": [{ "modid": "expandedfoods" }]
+  },
+  {
+    "file": "expandedfoods:recipes/simmering/choppedmushroom.json",
+    "op": "addmerge",
+    "path": "/-",
+    "value": {
+      "Ingredients": [
+        { "type": "item", "code": "game:waterportion", "quantity": 50 },
+        { "type": "item", "code": "mycodiversity:cookedchoppedmushroom-*-partbaked", "quantity": 1, "name": "mushroom" }
+      ],
+      "Simmering": {
+        "meltingPoint": 200,
+        "meltingDuration": 10,
+        "smeltedRatio": 1,
+        "smeltingType": "bake",
+        "smeltedStack": { "type": "item", "code": "mycodiversity:cookedchoppedmushroom-{mushroom}-perfect", "quantity": 1 },
+        "requiresContainer": false
+      }
+    },
+    "dependsOn": [{ "modid": "expandedfoods" }]
+  }
+]

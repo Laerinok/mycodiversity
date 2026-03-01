@@ -4,7 +4,7 @@
 	"variantgroups": [
 		{ "code": "type", "states": ["artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk"] },
 		{ "code": "state", "states": ["normal", "harvested"] },
-		{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" },
+		{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }
 	],
 	"behaviors": [{"name": "HorizontalAttachable", "properties": { "handleDrops": false } }],
 	"allowedVariants": [
@@ -12,7 +12,7 @@
 		"mushroom-beefsteakfungus-*",
 		"mushroom-redbeltedconk-*",
 		"mushroom-turkeytail-*",
-		"mushroom-westernvarnishedconk-*",
+		"mushroom-westernvarnishedconk-*"
 	],
 	"attributes": {
 		"mushroomProps": {
@@ -58,7 +58,7 @@
 		"*-north": { "base": "mycodiversity:block/plant/mushroom/{type}/{state}*", "rotateY": 180 },
 		"*-east": { "base": "mycodiversity:block/plant/mushroom/{type}/{state}*", "rotateY": 90 },
 		"*-south": { "base": "mycodiversity:block/plant/mushroom/{type}/{state}*", "rotateY": 0 },
-		"*-west": { "base": "mycodiversity:block/plant/mushroom/{type}/{state}*", "rotateY": 270 },
+		"*-west": { "base": "mycodiversity:block/plant/mushroom/{type}/{state}*", "rotateY": 270 }
 	},
 	"shapeInventory": { "base": "mycodiversity:item/food/mushroom/{type}" },
 	"doNotRenderAtLod2": true,
@@ -102,7 +102,7 @@
 	"sounds": {
 		"place": "block/plant",
 		"break": "block/plant",
-		"hit": "block/plant",
+		"hit": "block/plant"
 	},
 	"rainPermeable": true,
 	"transitionableProps": [{
@@ -116,5 +116,5 @@
 	"frostable": true,
 	"drops": [
 		{ "type": "block", "code": "mushroom-{type}-normal-north", "quantity": { "avg": 1, "var": 0 }  }
-	],
+	]
 }

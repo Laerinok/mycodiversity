@@ -1,0 +1,30 @@
+[
+  {
+    "file": "game:blocktypes/plant/mycodiversity-mushroom.json",
+    "op": "addmerge",
+    "path": "/attributes/bakingProperties",
+    "value": {
+        "temp": 100,
+        "levelFrom": 0.0,
+        "levelTo": 0.25,
+        "startScaleY": 0.6,
+        "endScaleY": 0.4,
+        "resultCode": "mycodiversity:cookedmushroom-{type}-partbaked"
+    },
+    "dependsOn": [{ "modid": "expandedfoods" }]
+  },
+  {
+    "file": "game:blocktypes/plant/mycodiversity-mushroom-side.json",
+    "op": "addmerge",
+    "path": "/attributes/bakingProperties",
+    "value": {
+        "temp": 100,
+        "levelFrom": 0.0,
+        "levelTo": 0.25,
+        "startScaleY": 0.6,
+        "endScaleY": 0.4,
+        "resultCode": "mycodiversity:cookedmushroom-{type}-partbaked"
+    },
+    "dependsOn": [{ "modid": "expandedfoods" }]
+  }
+]
