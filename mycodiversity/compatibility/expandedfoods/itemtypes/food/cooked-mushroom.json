@@ -1,0 +1,92 @@
+﻿{
+	"code": "cookedmushroom",
+	"maxstacksize": 64,
+	"variantgroups": [
+		{ 
+			"code": "type", 
+			"states": [
+				"aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "honeymushroom", "matsutake", "northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer", "artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk"
+			] 
+		},
+		{ "code": "state", "states": ["partbaked", "perfect", "charred"] }
+	],
+	"shape": { "base": "mycodiversity:item/food/mushroom/{type}" },
+	"texturesByType": {
+		"*-flattoppedclubcoral-charred": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/charred-overlay"] } },
+		"*-greenearthtongue-charred": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/charred-overlay"] } },
+		"*-purplefairyclub-charred": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/charred-overlay"] } },
+		"*-redramaria-charred": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/charred-overlay"] } },
+		"*-yellowramaria-charred": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/charred-overlay"] } },
+
+		"*-flattoppedclubcoral-perfect": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/baked-overlay"] } },
+		"*-greenearthtongue-perfect": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/baked-overlay"] } },
+		"*-purplefairyclub-perfect": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/baked-overlay"] } },
+		"*-redramaria-perfect": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/baked-overlay"] } },
+		"*-yellowramaria-perfect": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/baked-overlay"] } },
+
+		"*-flattoppedclubcoral-partbaked": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/partbaked-overlay"] } },
+		"*-greenearthtongue-partbaked": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/partbaked-overlay"] } },
+		"*-purplefairyclub-partbaked": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/partbaked-overlay"] } },
+		"*-redramaria-partbaked": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/partbaked-overlay"] } },
+		"*-yellowramaria-partbaked": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/partbaked-overlay"] } },
+	
+		"*-charred": {"texturemushroom": { "base": "mycodiversity:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/charred-overlay"] } },
+		"*-partbaked": {"texturemushroom": { "base": "mycodiversity:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/partbaked-overlay"] } },
+  		"*-perfect": {"texturemushroom": { "base": "mycodiversity:block/plant/mushroom/{type}/{type}", "overlays": ["expandedfoods:item/food/baked-overlay"] } }
+	},
+	"attributes": {
+		"displaycaseable": true,
+		"shelvable": true,
+		"onDisplayTransform": { "translation": { "x": 0, "y": 0, "z": 0 }, "scale": 1 },
+		"handbook": { "groupBy": [ "cookedmushroom-*" ] }
+	},
+	"attributesByType": {
+		"@*-(artistsconk|beefsteakfungus|redbeltedconk|turkeytail|westernvarnishedconk)-partbaked": {
+			"bakingProperties": {
+				"temp": 100,
+				"levelFrom": 0.25,
+				"levelTo": 0.5,
+				"startScaleY": 0.6,
+				"endScaleY": 0.4,
+				"resultCode": "mycodiversity:cookedmushroom-{type}-perfect",
+				"initialCode": "game:mushroom-{type}-normal-north"
+			}
+		},			
+		"*-partbaked": {
+			"bakingProperties": {
+				"temp": 100,
+				"levelFrom": 0.25,
+				"levelTo": 0.5,
+				"startScaleY": 0.6,
+				"endScaleY": 0.4,
+				"resultCode": "mycodiversity:cookedmushroom-{type}-perfect",
+				"initialCode": "game:mushroom-{type}-normal"
+			}
+		},
+		"*-perfect": {
+			"bakingProperties": {
+				"temp": 100,
+				"levelFrom": 0.5,
+				"levelTo": 0.75,
+				"startScaleY": 0.4,
+				"endScaleY": 0.3,
+				"resultCode": "mycodiversity:cookedmushroom-{type}-charred",
+				"initialCode": "mycodiversity:cookedmushroom-{type}-partbaked"
+			}
+		},
+		"*-charred": {
+			"bakingProperties": {
+				"temp": 100,
+				"levelFrom": 0.75,
+				"levelTo": 1,
+				"startScaleY": 0.3,
+				"endScaleY": 0.25,
+				"initialCode": "mycodiversity:cookedchoppedmushroom-{type}-perfect"
+			}
+		}
+	},
+	"creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
+	"guiTransformByType": {
+		"*": { "rotation": { "x": 160, "y": -25, "z": 0 }, "origin": { "x": 0.5, "y": 0.2, "z": 0.5 }, "scale": 3 }
+	}
+}

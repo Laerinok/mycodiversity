@@ -1,0 +1,115 @@
+{
+	"code": "choppedmushroom",
+	"maxstacksize": 64,
+	"variantgroups": [
+		{ 
+			"code": "type", 
+			"states": [
+				"aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "honeymushroom", "matsutake", "northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer", "artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk"
+			] 
+		}
+	],
+	"attributes": {
+		"displaycaseable": true,
+		"shelvable": true,
+		"nutritionPropsWhenInMeal": {
+			"satiety": 120,
+			"foodcategory": "Vegetable",
+			"healthByType": {
+				"*-destroyingangel": -50,
+				"*-yellowstainer": -6,
+				"*-sulfurtuft": -8,
+				"@*-(questionablestropharia|dyerspolypore|northernreddye|yellowramaria|greenearthtongue|falseearthstar|desertshaggymane|redbeltedconk|artistsconk|turkeytail|westernvarnishedconk)": -2,
+				"*": 0
+			}	
+		},
+		"handbook": { 
+			"groupBy": [ "choppedmushroom-*" ],
+			"extraSections": [{ "title": "expandedfoods:item-handbooktitle-choppedmushroom", "text": "expandedfoods:item-handbooktext-choppedmushroom" }]
+		},
+		"bakingProperties": {
+			"temp": 100,
+			"levelFrom": 0.0,
+			"levelTo": 0.25,
+			"startScaleY": 1.0,
+			"endScaleY": 1.0,
+			"resultCode": "mycodiversity:cookedchoppedmushroom-{type}-partbaked"
+		},
+		"onDisplayTransform": { 
+			"translation": { "x": 0, "y": -0.125, "z": 0 },
+			"scale": 0.75 
+		},
+		"inPiePropertiesByType": {
+			"*-dyerspolypore": { "texture": "game:block/food/pie/fill-mushroomblack", "partType": "Filling" },
+			"@*-(winterchanterelle|yellowramaria|yellowstainer|coccora|candycap|hedgehogmushroom|bluechanterelle)": { "texture": "game:block/food/pie/fill-mushroomyellow", "partType": "Filling" },
+			"@*-(aniseedfunnel|falseearthstar|stinkhorn|turkeytail|flattoppedclubcoral)": { "texture": "game:block/food/pie/fill-mushroomoffwhite", "partType": "Filling" },
+			"@*-(northernreddye|redramaria|beefsteakfungus)": { "texture": "game:block/food/pie/fill-mushroomred", "partType": "Filling" },
+			"*-greenearthtongue": { "texture": "game:block/food/pie/fill-mushroomgreen", "partType": "Filling" },
+			"@*-(purplefairyclub|blewit)": { "texture": "game:block/food/pie/fill-mushroompurple", "partType": "Filling" },
+			"@*-(aspenbolete|birchbolete|queenbolete|slipperyjack|hawkwing|artistsconk|redbeltedconk|westernvarnishedconk|honeymushroom)": { "texture": "game:block/food/pie/fill-mushroombrown", "partType": "Filling" },
+			"@*-(matsutake|shaggymane|destroyingangel|friedchickenmushroom|desertshaggymane)": { "texture": "game:block/food/pie/fill-mushroomwhite", "partType": "Filling" }
+		}
+	},
+	"shape": { "base": "expandedfoods:item/food/mushroom/generic-chopped" },
+	"texturesByType": {
+		"*-flattoppedclubcoral": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}" } },
+		"*-greenearthtongue": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}" } },
+		"*-purplefairyclub": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}" } },
+		"*-redramaria": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}" } },
+		"*-yellowramaria": { "texturemushroom": { "base": "expandedfoods:block/plant/mushroom/{type}/{type}" } },
+		"*": { "texturemushroom": { "base": "mycodiversity:block/plant/mushroom/{type}/{type}" } }
+	},
+	"creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
+	"nutritionPropsByType": {
+		"*-destroyingangel": { "saturation": 80, "health": -50, "foodcategory": "Vegetable" },
+		"*-yellowstainer": { "saturation": 80, "health": -6, "foodcategory": "Vegetable" },
+		"*-sulfurtuft": { "saturation": 80, "health": -8, "foodcategory": "Vegetable" },
+		"@*-(questionablestropharia|dyerspolypore|northernreddye|yellowramaria|greenearthtongue|falseearthstar|desertshaggymane|redbeltedconk|artistsconk|turkeytail|westernvarnishedconk)": { "saturation": 80, "health": -2, "foodcategory": "Vegetable" },
+		"*": { "saturation": 80, "foodcategory": "Vegetable" }
+	},
+	"combustiblePropsByType": {
+		"*": {
+			"meltingPoint": 150,
+			"meltingDuration": 30,
+			"smeltedRatio": 1,
+			"smeltingType": "bake",
+			"smeltedStack": { "type": "item", "code": "cookedchoppedmushroom-{type}-charred" },
+			"requiresContainer": false
+		}
+	},
+	"transitionablePropsByType": {
+		"*": [{
+			"type": "Perish",
+			"freshHours": { "avg": 432 },
+			"transitionHours": { "avg": 72 },
+			"transitionedStack": { "type": "item", "code": "game:rot" },
+			"transitionRatio": 1
+		}]
+	},
+	"materialDensity": 600,
+	"guiTransformByType": {
+		"*": {
+			"translation": { "x": 3, "y": 0, "z": 0 },
+			"rotation": { "x": -44, "y": 180, "z": 2 },
+			"origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+			"scale": 2,
+			"rotate":  true
+		}
+	},
+	"tpHandTransformByType": {
+		"*": {
+			"translation": { "x": -1.03, "y": -0.225, "z": -1 },
+			"rotation": { "x": 1, "y": -10, "z": 0 },
+			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+			"scale": 0.5
+		}
+	},
+	"groundTransformByType": {
+		"*": {
+			"translation": { "x": 0, "y": 0, "z": 0 },
+			"rotation": { "x": 0, "y": 0, "z": 0 },
+			"origin": { "x": 0.5, "y": 0, "z": 0.5 },
+			"scale": 2
+		}
+	}
+}

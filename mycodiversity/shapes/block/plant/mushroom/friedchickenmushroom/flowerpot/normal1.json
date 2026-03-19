@@ -1,0 +1,321 @@
+{
+	"editor": {
+		"allAngles": true,
+		"entityTextureMode": false
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textureSizes": {
+	},
+	"textures": {
+		"friedchickenmushroom": "mycodiversity:block/plant/mushroom/friedchickenmushroom/friedchickenmushroom"
+	},
+	"elements": [
+		{
+			"name": "origin",
+			"from": [ 0.0, 0.0, 0.0 ],
+			"to": [ 0.0, 0.0, 0.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+			},
+			"children": [
+				{
+					"name": "tiny13",
+					"from": [ 6.5, -0.3, 7.0 ],
+					"to": [ 7.5, 1.2, 8.0 ],
+					"rotationOrigin": [ 7.0, -0.3, 7.5 ],
+					"rotationY": 33.0,
+					"rotationZ": 26.0,
+					"faces": {
+						"north": { "texture": "#friedchickenmushroom", "uv": [ 3.5, 10.0, 4.5, 11.5 ] },
+						"east": { "texture": "#friedchickenmushroom", "uv": [ 6.0, 9.0, 7.0, 10.5 ] },
+						"south": { "texture": "#friedchickenmushroom", "uv": [ 5.5, 10.5, 6.5, 12.0 ] },
+						"west": { "texture": "#friedchickenmushroom", "uv": [ 5.5, 11.5, 6.5, 13.0 ] },
+						"down": { "texture": "#friedchickenmushroom", "uv": [ 2.0, 14.0, 3.0, 15.0 ] }
+					},
+					"children": [
+						{
+							"name": "cap3",
+							"from": [ -0.3, 2.6, -0.5 ],
+							"to": [ 1.7, 3.1, 1.5 ],
+							"rotationOrigin": [ 0.7, 2.6, 0.5 ],
+							"rotationZ": -14.0,
+							"faces": {
+								"north": { "texture": "#friedchickenmushroom", "uv": [ 4.5, 4.0, 6.5, 4.5 ] },
+								"east": { "texture": "#friedchickenmushroom", "uv": [ 3.0, 5.5, 5.0, 6.0 ] },
+								"south": { "texture": "#friedchickenmushroom", "uv": [ 5.0, 6.5, 7.0, 7.0 ] },
+								"west": { "texture": "#friedchickenmushroom", "uv": [ 7.0, 5.5, 9.0, 6.0 ] },
+								"up": { "texture": "#friedchickenmushroom", "uv": [ 3.0, 3.5, 5.0, 5.5 ] },
+								"down": { "texture": "#friedchickenmushroom", "uv": [ 1.5, 10.0, 3.5, 12.0 ] }
+							}
+						},
+						{
+							"name": "stem2",
+							"from": [ 0.0, 1.5, 0.0 ],
+							"to": [ 1.0, 3.0, 1.0 ],
+							"rotationOrigin": [ 0.0, 1.5, 0.5 ],
+							"rotationY": 0.1,
+							"rotationZ": -14.0,
+							"faces": {
+								"north": { "texture": "#friedchickenmushroom", "uv": [ 5.5, 12.5, 6.5, 14.0 ] },
+								"east": { "texture": "#friedchickenmushroom", "uv": [ 4.5, 10.5, 5.5, 12.0 ] },
+								"south": { "texture": "#friedchickenmushroom", "uv": [ 4.0, 11.0, 5.0, 12.5 ] },
+								"west": { "texture": "#friedchickenmushroom", "uv": [ 4.5, 13.0, 5.5, 14.5 ] },
+								"down": { "texture": "#friedchickenmushroom", "uv": [ 7.5, 11.0, 8.5, 12.0 ] }
+							}
+						}
+					]
+				},
+				{
+					"name": "medium small21",
+					"from": [ 7.6, 0.0, 7.0 ],
+					"to": [ 8.6, 2.0, 8.0 ],
+					"rotationOrigin": [ 8.1, 0.0, 7.5 ],
+					"rotationX": 3.0,
+					"rotationZ": -8.0,
+					"faces": {
+						"north": { "texture": "#friedchickenmushroom", "uv": [ 1.0, 14.0, 2.0, 16.0 ] },
+						"east": { "texture": "#friedchickenmushroom", "uv": [ 6.5, 13.0, 7.5, 15.0 ] },
+						"south": { "texture": "#friedchickenmushroom", "uv": [ 7.0, 14.0, 8.0, 16.0 ] },
+						"west": { "texture": "#friedchickenmushroom", "uv": [ 5.5, 11.5, 6.5, 13.5 ] },
+						"down": { "texture": "#friedchickenmushroom", "uv": [ 2.0, 14.0, 3.0, 15.0 ] }
+					},
+					"children": [
+						{
+							"name": "cap22",
+							"from": [ -1.1, 3.3, -0.9 ],
+							"to": [ 1.4, 3.8, 1.6 ],
+							"rotationOrigin": [ 0.4, 3.3, 0.6 ],
+							"rotationX": -6.0,
+							"rotationY": -46.0,
+							"faces": {
+								"north": { "texture": "#friedchickenmushroom", "uv": [ 11.0, 1.5, 13.5, 2.0 ] },
+								"east": { "texture": "#friedchickenmushroom", "uv": [ 7.0, 5.0, 9.5, 5.5 ] },
+								"south": { "texture": "#friedchickenmushroom", "uv": [ 9.5, 5.5, 12.0, 6.0 ] },
+								"west": { "texture": "#friedchickenmushroom", "uv": [ 9.0, 7.0, 11.5, 7.5 ] },
+								"up": { "texture": "#friedchickenmushroom", "uv": [ 3.0, 3.0, 5.5, 5.5 ] },
+								"down": { "texture": "#friedchickenmushroom", "uv": [ 2.5, 11.0, 5.0, 13.5 ] }
+							}
+						},
+						{
+							"name": "stem23",
+							"from": [ 0.0, 1.8, 0.0 ],
+							"to": [ 1.0, 3.3, 1.0 ],
+							"rotationOrigin": [ 0.5, 1.8, 0.5 ],
+							"rotationX": -6.0,
+							"rotationZ": 0.1,
+							"faces": {
+								"north": { "texture": "#friedchickenmushroom", "uv": [ 5.5, 14.0, 6.5, 15.5 ] },
+								"east": { "texture": "#friedchickenmushroom", "uv": [ 4.5, 11.0, 5.5, 12.5 ] },
+								"south": { "texture": "#friedchickenmushroom", "uv": [ 6.5, 10.5, 7.5, 12.0 ] },
+								"west": { "texture": "#friedchickenmushroom", "uv": [ 6.5, 12.0, 7.5, 13.5 ] }
+							}
+						}
+					]
+				},
+				{
+					"name": "medium small24",
+					"from": [ 7.9, -0.3, 6.2 ],
+					"to": [ 8.4, 0.7, 6.7 ],
+					"rotationOrigin": [ 8.1, -0.3, 6.5 ],
+					"rotationY": 42.0,
+					"rotationZ": -30.0,
+					"faces": {
+						"north": { "texture": "#friedchickenmushroom", "uv": [ 1.0, 14.0, 1.5, 15.0 ] },
+						"east": { "texture": "#friedchickenmushroom", "uv": [ 6.5, 14.0, 7.0, 15.0 ] },
+						"south": { "texture": "#friedchickenmushroom", "uv": [ 7.0, 14.0, 7.5, 15.0 ] },
+						"west": { "texture": "#friedchickenmushroom", "uv": [ 6.5, 14.0, 7.0, 15.0 ] },
+						"down": { "texture": "#friedchickenmushroom", "uv": [ 2.0, 14.0, 2.5, 14.5 ] }
+					},
+					"children": [
+						{
+							"name": "cap25",
+							"from": [ -0.5, 1.9, -0.3 ],
+							"to": [ 0.5, 2.4, 0.7 ],
+							"rotationOrigin": [ 0.0, 1.9, 0.2 ],
+							"rotationY": 2.0,
+							"rotationZ": 16.0,
+							"faces": {
+								"north": { "texture": "#friedchickenmushroom", "uv": [ 10.5, 1.5, 11.5, 2.0 ] },
+								"east": { "texture": "#friedchickenmushroom", "uv": [ 9.0, 3.0, 10.0, 3.5 ] },
+								"south": { "texture": "#friedchickenmushroom", "uv": [ 9.0, 3.0, 10.0, 3.5 ] },
+								"west": { "texture": "#friedchickenmushroom", "uv": [ 9.0, 4.5, 10.0, 5.0 ] },
+								"up": { "texture": "#friedchickenmushroom", "uv": [ 5.0, 5.0, 6.0, 6.0 ] },
+								"down": { "texture": "#friedchickenmushroom", "uv": [ 4.0, 10.0, 5.0, 11.0 ] }
+							}
+						},
+						{
+							"name": "stem26",
+							"from": [ 0.0, 1.0, 0.0 ],
+							"to": [ 0.5, 2.0, 0.5 ],
+							"rotationOrigin": [ 0.5, 1.0, 0.0 ],
+							"rotationX": 0.1,
+							"rotationZ": 17.0,
+							"faces": {
+								"north": { "texture": "#friedchickenmushroom", "uv": [ 5.0, 10.0, 5.5, 11.0 ] },
+								"east": { "texture": "#friedchickenmushroom", "uv": [ 6.0, 14.0, 6.5, 15.0 ] },
+								"south": { "texture": "#friedchickenmushroom", "uv": [ 6.5, 14.5, 7.0, 15.5 ] },
+								"west": { "texture": "#friedchickenmushroom", "uv": [ 6.5, 13.5, 7.0, 14.5 ] }
+							}
+						}
+					]
+				},
+				{
+					"name": "tiny15",
+					"from": [ 8.5, -0.4, 6.4 ],
+					"to": [ 9.5, 1.1, 7.4 ],
+					"rotationOrigin": [ 9.0, -0.4, 6.9 ],
+					"rotationY": 144.0,
+					"rotationZ": 36.0,
+					"faces": {
+						"north": { "texture": "#friedchickenmushroom", "uv": [ 6.5, 14.0, 7.5, 15.5 ] },
+						"east": { "texture": "#friedchickenmushroom", "uv": [ 6.5, 9.0, 7.5, 10.5 ] },
+						"south": { "texture": "#friedchickenmushroom", "uv": [ 5.5, 10.5, 6.5, 12.0 ] },
+						"west": { "texture": "#friedchickenmushroom", "uv": [ 5.5, 11.0, 6.5, 12.5 ] },
+						"down": { "texture": "#friedchickenmushroom", "uv": [ 2.0, 14.0, 3.0, 15.0 ] }
+					},
+					"children": [
+						{
+							"name": "cap5",
+							"from": [ -0.3, 2.6, -0.5 ],
+							"to": [ 1.7, 3.1, 1.5 ],
+							"rotationOrigin": [ 0.7, 2.6, 0.5 ],
+							"rotationZ": -14.0,
+							"faces": {
+								"north": { "texture": "#friedchickenmushroom", "uv": [ 4.5, 4.0, 6.5, 4.5 ] },
+								"east": { "texture": "#friedchickenmushroom", "uv": [ 3.0, 5.5, 5.0, 6.0 ] },
+								"south": { "texture": "#friedchickenmushroom", "uv": [ 5.0, 6.5, 7.0, 7.0 ] },
+								"west": { "texture": "#friedchickenmushroom", "uv": [ 7.0, 5.5, 9.0, 6.0 ] },
+								"up": { "texture": "#friedchickenmushroom", "uv": [ 3.0, 3.5, 5.0, 5.5 ] },
+								"down": { "texture": "#friedchickenmushroom", "uv": [ 3.0, 10.5, 5.0, 12.5 ] }
+							}
+						},
+						{
+							"name": "stem4",
+							"from": [ 0.0, 1.5, 0.0 ],
+							"to": [ 1.0, 3.0, 1.0 ],
+							"rotationOrigin": [ 0.0, 1.5, 0.5 ],
+							"rotationY": 0.1,
+							"rotationZ": -14.0,
+							"faces": {
+								"north": { "texture": "#friedchickenmushroom", "uv": [ 5.5, 12.5, 6.5, 14.0 ] },
+								"east": { "texture": "#friedchickenmushroom", "uv": [ 4.5, 10.5, 5.5, 12.0 ] },
+								"south": { "texture": "#friedchickenmushroom", "uv": [ 4.0, 11.0, 5.0, 12.5 ] },
+								"west": { "texture": "#friedchickenmushroom", "uv": [ 4.5, 13.0, 5.5, 14.5 ] },
+								"down": { "texture": "#friedchickenmushroom", "uv": [ 7.5, 11.0, 8.5, 12.0 ] }
+							}
+						}
+					]
+				},
+				{
+					"name": "medium small25",
+					"from": [ 7.4, -0.3, 6.0 ],
+					"to": [ 7.9, 0.7, 6.5 ],
+					"rotationOrigin": [ 7.6, -0.3, 6.3 ],
+					"rotationY": 144.0,
+					"rotationZ": -30.0,
+					"faces": {
+						"north": { "texture": "#friedchickenmushroom", "uv": [ 1.0, 14.0, 1.5, 15.0 ] },
+						"east": { "texture": "#friedchickenmushroom", "uv": [ 6.0, 14.0, 6.5, 15.0 ] },
+						"south": { "texture": "#friedchickenmushroom", "uv": [ 7.0, 14.0, 7.5, 15.0 ] },
+						"west": { "texture": "#friedchickenmushroom", "uv": [ 5.5, 12.0, 6.0, 13.0 ] },
+						"down": { "texture": "#friedchickenmushroom", "uv": [ 2.0, 14.0, 2.5, 14.5 ] }
+					},
+					"children": [
+						{
+							"name": "cap26",
+							"from": [ -0.5, 1.9, -0.3 ],
+							"to": [ 0.5, 2.4, 0.7 ],
+							"rotationOrigin": [ 0.0, 1.9, 0.2 ],
+							"rotationY": 2.0,
+							"rotationZ": 16.0,
+							"faces": {
+								"north": { "texture": "#friedchickenmushroom", "uv": [ 10.5, 1.5, 11.5, 2.0 ] },
+								"east": { "texture": "#friedchickenmushroom", "uv": [ 9.0, 3.0, 10.0, 3.5 ] },
+								"south": { "texture": "#friedchickenmushroom", "uv": [ 9.0, 3.0, 10.0, 3.5 ] },
+								"west": { "texture": "#friedchickenmushroom", "uv": [ 9.0, 4.5, 10.0, 5.0 ] },
+								"up": { "texture": "#friedchickenmushroom", "uv": [ 5.0, 5.0, 6.0, 6.0 ] },
+								"down": { "texture": "#friedchickenmushroom", "uv": [ 4.0, 10.0, 5.0, 11.0 ] }
+							}
+						},
+						{
+							"name": "stem27",
+							"from": [ 0.0, 1.0, 0.0 ],
+							"to": [ 0.5, 2.0, 0.5 ],
+							"rotationOrigin": [ 0.5, 1.0, 0.0 ],
+							"rotationX": 0.1,
+							"rotationZ": 17.0,
+							"faces": {
+								"north": { "texture": "#friedchickenmushroom", "uv": [ 5.0, 10.0, 5.5, 11.0 ] },
+								"east": { "texture": "#friedchickenmushroom", "uv": [ 6.5, 15.0, 7.0, 16.0 ] },
+								"south": { "texture": "#friedchickenmushroom", "uv": [ 6.5, 14.5, 7.0, 15.5 ] },
+								"west": { "texture": "#friedchickenmushroom", "uv": [ 6.5, 13.5, 7.0, 14.5 ] }
+							}
+						}
+					]
+				},
+				{
+					"name": "medium small26",
+					"from": [ 8.1, -0.3, 8.1 ],
+					"to": [ 8.6, 0.7, 8.6 ],
+					"rotationOrigin": [ 8.3, -0.3, 8.4 ],
+					"rotationY": -72.0,
+					"rotationZ": -30.0,
+					"faces": {
+						"north": { "texture": "#friedchickenmushroom", "uv": [ 1.0, 14.0, 1.5, 15.0 ] },
+						"east": { "texture": "#friedchickenmushroom", "uv": [ 6.0, 14.0, 6.5, 15.0 ] },
+						"south": { "texture": "#friedchickenmushroom", "uv": [ 7.0, 14.0, 7.5, 15.0 ] },
+						"west": { "texture": "#friedchickenmushroom", "uv": [ 6.5, 14.0, 7.0, 15.0 ] },
+						"down": { "texture": "#friedchickenmushroom", "uv": [ 2.0, 14.0, 2.5, 14.5 ] }
+					},
+					"children": [
+						{
+							"name": "cap27",
+							"from": [ -0.5, 1.9, -0.3 ],
+							"to": [ 0.5, 2.4, 0.7 ],
+							"rotationOrigin": [ 0.0, 1.9, 0.2 ],
+							"rotationY": 2.0,
+							"rotationZ": 16.0,
+							"faces": {
+								"north": { "texture": "#friedchickenmushroom", "uv": [ 10.5, 1.5, 11.5, 2.0 ] },
+								"east": { "texture": "#friedchickenmushroom", "uv": [ 9.0, 3.0, 10.0, 3.5 ] },
+								"south": { "texture": "#friedchickenmushroom", "uv": [ 9.0, 3.0, 10.0, 3.5 ] },
+								"west": { "texture": "#friedchickenmushroom", "uv": [ 9.0, 4.5, 10.0, 5.0 ] },
+								"up": { "texture": "#friedchickenmushroom", "uv": [ 5.0, 5.0, 6.0, 6.0 ] },
+								"down": { "texture": "#friedchickenmushroom", "uv": [ 2.0, 10.5, 3.0, 11.5 ] }
+							}
+						},
+						{
+							"name": "stem28",
+							"from": [ 0.0, 1.0, 0.0 ],
+							"to": [ 0.5, 2.0, 0.5 ],
+							"rotationOrigin": [ 0.5, 1.0, 0.0 ],
+							"rotationX": 0.1,
+							"rotationZ": 17.0,
+							"faces": {
+								"north": { "texture": "#friedchickenmushroom", "uv": [ 5.0, 10.0, 5.5, 11.0 ] },
+								"east": { "texture": "#friedchickenmushroom", "uv": [ 6.0, 14.0, 6.5, 15.0 ] },
+								"south": { "texture": "#friedchickenmushroom", "uv": [ 6.5, 14.5, 7.0, 15.5 ] },
+								"west": { "texture": "#friedchickenmushroom", "uv": [ 5.5, 13.0, 6.0, 14.0 ] }
+							}
+						}
+					]
+				},
+				{
+					"name": "single voxel26",
+					"from": [ 7.3, 0.0, 8.4 ],
+					"to": [ 8.3, 0.5, 9.4 ],
+					"rotationOrigin": [ 7.3, 0.0, 8.4 ],
+					"rotationY": -17.0,
+					"faces": {
+						"north": { "texture": "#friedchickenmushroom", "uv": [ 12.0, 3.0, 13.0, 3.5 ] },
+						"east": { "texture": "#friedchickenmushroom", "uv": [ 7.0, 2.0, 8.0, 2.5 ] },
+						"south": { "texture": "#friedchickenmushroom", "uv": [ 10.0, 1.0, 11.0, 1.5 ] },
+						"west": { "texture": "#friedchickenmushroom", "uv": [ 7.0, 4.0, 8.0, 4.5 ] },
+						"up": { "texture": "#friedchickenmushroom", "uv": [ 0.0, 2.0, 1.0, 3.0 ] },
+						"down": { "texture": "#friedchickenmushroom", "uv": [ 6.0, 7.0, 7.0, 8.0 ] }
+					}
+				}
+			]
+		}
+	]}
