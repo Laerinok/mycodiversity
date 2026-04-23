@@ -12,7 +12,7 @@
 					"type": "block", 
 					"code": "game:mushroom-*-normal",
 					"name": "type",
-					"allowedVariants": [ "aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "honeymushroom", "matsutake", "northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer", "artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk" ]
+					"allowedVariants": [ "aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "matsutake", "northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer", "artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk" ]
 				}
 			},
 			"width": 2,
@@ -33,7 +33,7 @@
 					"type": "block", 
 					"code": "game:mushroom-*-normal",
 					"name": "type",
-					"allowedVariants": [ "aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "honeymushroom", "matsutake", "northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer", "artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk" ]
+					"allowedVariants": [ "aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "matsutake", "northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer", "artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk" ]
 				}
 			},
 			"width": 2,
@@ -54,7 +54,7 @@
 					"type": "block", 
 					"code": "game:mushroom-*-normal-north",
 					"name": "type",
-					"allowedVariants": [ "aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "honeymushroom", "matsutake", "northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer", "artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk" ]
+					"allowedVariants": [ "aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "matsutake", "northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer", "artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk" ]
 				}
 			},
 			"width": 2,
@@ -75,7 +75,7 @@
 					"type": "block", 
 					"code": "game:mushroom-*-normal-north",
 					"name": "type",
-					"allowedVariants": [ "aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "honeymushroom", "matsutake", "northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer", "artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk" ]
+					"allowedVariants": [ "aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "matsutake", "northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer", "artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk" ]
 				}
 			},
 			"width": 2,

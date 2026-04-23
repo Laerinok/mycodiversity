@@ -2,7 +2,7 @@
 	"code": "mushroom",
 	"class": "BlockMushroom",
 	"variantgroups": [
-		{ "code": "type", "states": ["aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "honeymushroom", "matsutake","northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer"] },
+		{ "code": "type", "states": ["aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "matsutake","northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer"] },
 		{ "code": "state", "states": ["normal", "harvested"] }
 	],
 	"attributes": {

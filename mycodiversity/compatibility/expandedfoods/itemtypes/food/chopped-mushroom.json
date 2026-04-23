@@ -5,7 +5,7 @@
 		{ 
 			"code": "type", 
 			"states": [
-				"aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "honeymushroom", "matsutake", "northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer", "artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk"
+				"aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "matsutake", "northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer", "artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk"
 			] 
 		}
 	],
@@ -46,7 +46,7 @@
 			"@*-(northernreddye|redramaria|beefsteakfungus)": { "texture": "game:block/food/pie/fill-mushroomred", "partType": "Filling" },
 			"*-greenearthtongue": { "texture": "game:block/food/pie/fill-mushroomgreen", "partType": "Filling" },
 			"@*-(purplefairyclub|blewit)": { "texture": "game:block/food/pie/fill-mushroompurple", "partType": "Filling" },
-			"@*-(aspenbolete|birchbolete|queenbolete|slipperyjack|hawkwing|artistsconk|redbeltedconk|westernvarnishedconk|honeymushroom)": { "texture": "game:block/food/pie/fill-mushroombrown", "partType": "Filling" },
+			"@*-(aspenbolete|birchbolete|queenbolete|slipperyjack|hawkwing|artistsconk|redbeltedconk|westernvarnishedconk)": { "texture": "game:block/food/pie/fill-mushroombrown", "partType": "Filling" },
 			"@*-(matsutake|shaggymane|destroyingangel|friedchickenmushroom|desertshaggymane)": { "texture": "game:block/food/pie/fill-mushroomwhite", "partType": "Filling" }
 		}
 	},
