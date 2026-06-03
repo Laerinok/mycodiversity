@@ -5,7 +5,7 @@
 		{ 
 			"code": "type", 
 			"states": [
-				"aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "honeymushroom", "matsutake", "northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer", "artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk"
+				"aniseedfunnel", "aspenbolete", "birchbolete", "blewit", "bluechanterelle", "candycap", "coccora", "desertshaggymane", "destroyingangel", "dyerspolypore", "falseearthstar", "flattoppedclubcoral", "friedchickenmushroom", "greenearthtongue", "hawkwing", "hedgehogmushroom", "matsutake", "northernreddye", "parasol", "purplefairyclub", "queenbolete", "questionablestropharia", "redramaria", "shaggymane", "shrimpmushroom", "slipperyjack", "stinkhorn", "sulfurtuft", "winterchanterelle", "yellowramaria", "yellowstainer", "artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk"
 			] 
 		},
 		{ "code": "state", "states": ["partbaked", "perfect", "charred"] }

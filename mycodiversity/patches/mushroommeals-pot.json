@@ -181,16 +181,6 @@
   },
   {
     "op": "add",
-    "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-honeymushroom-normal",
-    "value": [
-      "vegetable",
-      "group3"
-    ],
-    "file": "game:blocktypes/clay/fired/pot.json",
-    "side": "Server"
-  },
-  {
-    "op": "add",
     "path": "/attributesByType/claypot-blue-cooked/textureMapping/mushroom-matsutake-normal",
     "value": [
       "vegetable",

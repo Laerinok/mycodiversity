@@ -1,4 +1,6 @@
 {
+	"game:tabname-mycodiversity": "蘑菇的多样性",
+
     "game:block-mushroom-aniseedfunnel-normal": "茴香杯伞",
     "game:block-mushroom-aspenbolete-normal": "白杨疣柄牛肝菌",
 	"game:block-mushroom-birchbolete-normal": "褐疣柄牛肝菌",
@@ -15,7 +17,6 @@
 	"game:block-mushroom-greenearthtongue-normal": "绿小舌菌",
 	"game:block-mushroom-hawkwing-normal": "黑虎掌菌",
 	"game:block-mushroom-hedgehogmushroom-normal": "鹿舌菌",
-	"game:block-mushroom-honeymushroom-normal": "榛蘑",
 	"game:block-mushroom-matsutake-normal": "松茸",
 	"game:block-mushroom-northernreddye-normal": "血红丝膜菌",
 	"game:block-mushroom-parasol-normal": "高大环柄菇",
@@ -54,7 +55,6 @@
 	"game:meal-ingredient-soup-primary-mushroom-greenearthtongue-normal": "绿小舌菌",
 	"game:meal-ingredient-soup-primary-mushroom-hawkwing-normal": "黑虎掌菌",
 	"game:meal-ingredient-soup-primary-mushroom-hedgehogmushroom-normal": "鹿舌菌",
-	"game:meal-ingredient-soup-primary-mushroom-honeymushroom-normal": "榛蘑",
 	"game:meal-ingredient-soup-primary-mushroom-matsutake-normal": "松茸",
 	"game:meal-ingredient-soup-primary-mushroom-northernreddye-normal": "血红丝膜菌",
 	"game:meal-ingredient-soup-primary-mushroom-parasol-normal": "高大环柄菇",
@@ -95,7 +95,6 @@
 	"game:meal-ingredient-soup-secondary-mushroom-hawkwing-normal": "黑虎掌菌",
 	"game:meal-ingredient-soup-secondary-mushroom-hedgehogmushroom-normal": "鹿舌菌",
 	"game:meal-ingredient-soup-secondary-mushroom-honeymushroom-normal": "榛蘑",
-	"game:meal-ingredient-soup-secondary-mushroom-matsutake-normal": "松茸",
 	"game:meal-ingredient-soup-secondary-mushroom-northernreddye-normal": "血红丝膜菌",
 	"game:meal-ingredient-soup-secondary-mushroom-parasol-normal": "高大环柄菇",
 	"game:meal-ingredient-soup-secondary-mushroom-purplefairyclub-normal": "紫珊瑚菌",
@@ -133,7 +132,6 @@
 	"game:meal-ingredient-stew-primary-mushroom-greenearthtongue-normal": "绿小舌菌",
 	"game:meal-ingredient-stew-primary-mushroom-hawkwing-normal": "黑虎掌菌",
 	"game:meal-ingredient-stew-primary-mushroom-hedgehogmushroom-normal": "鹿舌菌",
-	"game:meal-ingredient-stew-primary-mushroom-honeymushroom-normal": "榛蘑",
 	"game:meal-ingredient-stew-primary-mushroom-matsutake-normal": "松茸",
 	"game:meal-ingredient-stew-primary-mushroom-northernreddye-normal": "血红丝膜菌",
 	"game:meal-ingredient-stew-primary-mushroom-parasol-normal": "高大环柄菇",
@@ -173,7 +171,6 @@
 	"game:meal-ingredient-stew-secondary-mushroom-greenearthtongue-normal": "绿小舌菌",
 	"game:meal-ingredient-stew-secondary-mushroom-hawkwing-normal": "黑虎掌菌",
 	"game:meal-ingredient-stew-secondary-mushroom-hedgehogmushroom-normal": "鹿舌菌",
-	"game:meal-ingredient-stew-secondary-mushroom-honeymushroom-normal": "榛蘑",
 	"game:meal-ingredient-stew-secondary-mushroom-matsutake-normal": "松茸",
 	"game:meal-ingredient-stew-secondary-mushroom-northernreddye-normal": "血红丝膜菌",
 	"game:meal-ingredient-stew-secondary-mushroom-parasol-normal": "高大环柄菇",
@@ -281,10 +278,6 @@
   "substrate:mushroom-hedgehogmushroom": "鹿舌菌",
   "substrate:block-sporepaperprinted-hedgehogmushroom-*": "孢子印迹纸(鹿舌菌)",
   "substrate:item-sporeprint-hedgehogmushroom": "孢子印迹 (鹿舌菌)",
-
-  "substrate:mushroom-honeymushroom": "榛蘑",
-  "substrate:block-sporepaperprinted-honeymushroom-*": "孢子印迹纸(榛蘑)",
-  "substrate:item-sporeprint-honeymushroom": "孢子印迹 (榛蘑)",
 
   "substrate:mushroom-matsutake": "松茸",
   "substrate:block-sporepaperprinted-matsutake-*": "孢子印迹纸(松茸)",
