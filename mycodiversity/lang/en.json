@@ -1,4 +1,6 @@
 {
+	"game:tabname-mycodiversity": "Mycodiversity",
+
 	"game:block-mushroom-aniseedfunnel-normal": "Aniseed funnel",
 	"game:block-mushroom-aspenbolete-normal": "Aspen bolete",
 	"game:block-mushroom-birchbolete-normal": "Birch bolete",
@@ -28,6 +30,7 @@
 	"game:block-mushroom-stinkhorn-normal": "Stinkhorn",
 	"game:block-mushroom-sulfurtuft-normal": "Sulfur tuft",
 	"game:block-mushroom-winterchanterelle-normal": "Winter chanterelle",
+
 	"game:block-mushroom-yellowramaria-normal": "Yellow ramaria",
 	"game:block-mushroom-yellowstainer-normal": "Yellow stainer",
 
@@ -815,6 +818,7 @@
 	"pie-single-expandedfoods:choppedmushroom-hedgehogmushroom-partbaked": "Hedgehog pie (part-baked)",
 	"pie-single-expandedfoods:choppedmushroom-hedgehogmushroom-perfect": "Hedgehog pie",
 	"pie-single-expandedfoods:choppedmushroom-hedgehogmushroom-charred": "Hedgehog pie (charred)",
+	"pie-single-expandedfoods:choppedmushroom-honeymushroom-partbaked": "Honey mushroom pie (part-baked)",
 	"pie-single-expandedfoods:choppedmushroom-matsutake-raw": "Matsutake pie (raw)",
 	"pie-single-expandedfoods:choppedmushroom-matsutake-partbaked": "Matsutake pie (part-baked)",
 	"pie-single-expandedfoods:choppedmushroom-matsutake-perfect": "Matsutake pie",
