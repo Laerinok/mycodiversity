@@ -3,7 +3,7 @@
 	"class": "BlockMushroom",
 	"variantgroups": [
 		{ "code": "type", "states": ["artistsconk", "beefsteakfungus", "redbeltedconk", "turkeytail", "westernvarnishedconk"] },
-		{ "code": "state", "states": ["normal", "harvested"] },
+		{ "code": "state", "states": ["normal"] },
 		{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }
 	],
 	"behaviors": [{"name": "HorizontalAttachable", "properties": { "handleDrops": false } }],
@@ -43,7 +43,29 @@
 				"*-westernvarnishedconk-*": -2,
 				"*": 0
 			}
-		}
+		},
+		"eatHealthEffectDurationSec": 10,
+		"eatHealthEffectTicks": 10,
+		"displayedShape": { "base": "mycodiversity:item/food/mushroom/{type}"},
+		"inTrapTransform": {
+			"small": {
+				"translation": { "x": -0.15, "y": 0.08, "z": -0.05 },
+				"rotation": { "x": 0, "y": 25, "z": 0 }
+			},
+			"large": {
+				"translation": { "x": 0.05, "y": 0.2, "z": 0.05 },
+				"rotation": { "x": 89, "y": 2, "z": -85 }
+			}
+		},
+		"handbook": {
+			"groupBy": ["mushroom-*"]
+		},
+        "displayable": {
+            "shelf": {
+                "size": { "width": 4, "height": 6, "length": 4 },
+                "shape": { "base": "mycodiversity:item/food/mushroom/{type}" }
+            }
+        }
 	},
 	"nutritionPropsByType": {
 		"*-redbeltedconk-*": { "saturation": 80, "health": -2, "foodcategory": "Vegetable" },
@@ -52,7 +74,7 @@
 		"*-westernvarnishedconk-*": { "saturation": 80, "health": -2, "foodcategory": "Vegetable" },
 		"*": { "saturation": 80, "health": 0, "foodcategory": "Vegetable" }
 	},
-	"creativeinventory": { "general": ["*-normal-north"], "flora": ["*-normal-north"] },
+	"creativeinventory": { "general": ["*-normal-north"], "flora": ["*-normal-north"], "mycodiversity": ["*-normal-north"] },
 	"drawtype": "JSON",
 	"shapeByType": {
 		"*-north": { "base": "mycodiversity:block/plant/mushroom/{type}/{state}*", "rotateY": 180 },

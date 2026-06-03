@@ -236,17 +236,6 @@
 		"randomMapCodePool": ["mush1", "mush2", "mush3", "mush4", "mush5", "mush6", "mush7"]
 	},
 	{
-		"blockCodes": ["mushroom-honeymushroom-normal"],
-		"placement": "UnderTrees",
-		"treeType": "Any",
-		"minRain": 0.4,
-		"minTemp": -2,
-		"maxTemp": 20,
-		"quantity": { "avg": 1, "var": 0 },
-		"chance": 1.6,
-		"randomMapCodePool": ["mush1", "mush2", "mush3", "mush4", "mush5", "mush6", "mush7"]
-	},
-	{
 		"blockCodes": ["mushroom-matsutake-normal"],
 		"placement": "UnderTrees",
 		"treeType": "Conifer",
