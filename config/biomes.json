@@ -1,0 +1,310 @@
+{
+  "NorthernRealms": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic"
+  ],
+  "SouthernRealms": [
+    "pacific neotropic",
+    "atlantic neotropic",
+    "atlantic afrotropic",
+    "eastern afrotropic",
+    "australasian",
+    "oceanic"
+  ],
+  "BlockPatchBiomes": {
+    "*-aniseedfunnel-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic"
+    ],
+    "*-aspenbolete-*": [
+    "pacific nearctic",
+    "atlantic nearctic"
+    ],
+    "*-birchbolete-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic"
+    ],
+    "*-blewit-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific neotropic",
+    "atlantic neotropic"
+    ],
+    "*-bluechanterelle-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "eastern palearctic",
+    "pacific palearctic"
+    ],
+    "*-candycap-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic"
+    ],
+    "*-coccora-*": [
+    "pacific nearctic"
+    ],
+    "*-desertshaggymane-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "pacific neotropic",
+    "atlantic neotropic",
+    "atlantic afrotropic",
+    "eastern afrotropic",
+    "australasian",
+    "oceanic"
+    ],
+    "*-destroyingangel-*": [
+    "pacific nearctic",
+    "atlantic nearctic"
+    ],
+    "*-dyerspolypore-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic"
+    ],
+    "*-falseearthstar-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic",
+    "pacific neotropic",
+    "atlantic neotropic",
+    "atlantic afrotropic",
+    "eastern afrotropic",
+    "australasian",
+    "oceanic"
+    ],
+    "*-flattoppedclubcoral-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic"
+    ],
+    "*-friedchickenmushroom-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic"
+    ],
+    "*-greenearthtongue-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "australasian",
+    "oceanic"
+    ],
+    "*-hawkwing-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic"
+    ],
+    "*-matsutake-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic"
+    ],
+    "*-northernreddye*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "australasian"
+    ],
+    "*-parasol-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic",
+    "pacific neotropic"
+    ],
+    "*-purplefairyclub-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic"
+    ],
+    "*-queenbolete-*": [
+    "pacific nearctic"
+    ],
+    "*-questionablestropharia-*": [
+    "pacific nearctic"
+    ],
+    "*-redramaria-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic",
+    "pacific neotropic",
+    "atlantic neotropic",
+    "atlantic afrotropic",
+    "eastern afrotropic",
+    "australasian",
+    "oceanic"
+    ],
+    "*-shaggymane-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic",
+    "pacific neotropic",
+    "atlantic neotropic",
+    "atlantic afrotropic",
+    "eastern afrotropic",
+    "australasian",
+    "oceanic"
+    ],
+    "*-shrimpmushroom-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic"
+    ],
+    "*-slipperyjack-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic"
+    ],
+    "*-stinkhorn-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic"
+    ],
+    "*-sulfurtuft-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic"
+    ],
+    "*-winterchanterelle-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "eastern palearctic",
+    "pacific palearctic"
+    ],
+    "*-yellowramaria-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic",
+    "pacific neotropic",
+    "atlantic neotropic",
+    "atlantic afrotropic",
+    "eastern afrotropic",
+    "australasian",
+    "oceanic"
+    ],
+    "*-yellowstainer-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic",
+    "pacific neotropic",
+    "atlantic neotropic"
+    ],
+    "*-artistsconk-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic",
+    "pacific neotropic",
+    "atlantic neotropic",
+    "atlantic afrotropic",
+    "eastern afrotropic",
+    "australasian",
+    "oceanic"
+    ],
+    "*-beefsteakfungus-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "pacific palearctic"
+    ],
+    "*-redbeltedconk-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic"
+    ],
+    "*-turkeytail-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic",
+    "pacific neotropic",
+    "atlantic neotropic",
+    "australasian",
+    "oceanic"
+    ],
+    "*-hedgehogmushroom-*": [
+    "pacific nearctic",
+    "atlantic nearctic",
+    "atlantic palearctic",
+    "central palearctic",
+    "eastern palearctic",
+    "pacific palearctic"
+    ],
+    "*-westernvarnishedconk-*": [
+    "pacific nearctic"
+    ]
+  }
+}

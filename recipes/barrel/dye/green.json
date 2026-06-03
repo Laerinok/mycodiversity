@@ -1,0 +1,11 @@
+[
+	{
+		code: "dye-green",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 4 },
+			{ type: "block", code: "game:mushroom-hawkwing-normal", quantity: 4 }
+		],
+		output: { type: "item", code: "game:dye-green", litres: 4 }
+	}
+]

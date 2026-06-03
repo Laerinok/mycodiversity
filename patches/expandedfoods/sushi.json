@@ -1,0 +1,32 @@
+[
+  {
+    "file": "expandedfoods:recipes/kneading/sushi.json",
+    "op": "addmerge",
+    "path": "/2/ingredients/2/inputs/-",
+    "value": {
+      "type": "item",
+      "code": "mycodiversity:choppedmushroom-*",
+      "quantity": 1
+    },
+    "dependsOn": [
+      {
+        "modid": "expandedfoods"
+      }
+    ]
+  },
+  {
+    "file": "expandedfoods:recipes/kneading/sushi.json",
+    "op": "addmerge",
+    "path": "/3/ingredients/2/inputs/-",
+    "value": {
+      "type": "item",
+      "code": "mycodiversity:choppedmushroom-*",
+      "quantity": 1
+    },
+    "dependsOn": [
+      {
+        "modid": "expandedfoods"
+      }
+    ]
+  }
+]

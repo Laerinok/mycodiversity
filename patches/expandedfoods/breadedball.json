@@ -1,0 +1,32 @@
+[
+  {
+    "file": "expandedfoods:recipes/kneading/breadedball.json",
+    "op": "addmerge",
+    "path": "/0/ingredients/3/inputs/-",
+    "value": {
+      "type": "item",
+      "code": "mycodiversity:choppedmushroom-*",
+      "quantity": 1
+    },
+    "dependsOn": [
+      {
+        "modid": "expandedfoods"
+      }
+    ]
+  },
+  {
+    "file": "expandedfoods:recipes/kneading/breadedball.json",
+    "op": "addmerge",
+    "path": "/1/ingredients/3/inputs/-",
+    "value": {
+      "type": "item",
+      "code": "mycodiversity:choppedmushroom-*",
+      "quantity": 1
+    },
+    "dependsOn": [
+      {
+        "modid": "expandedfoods"
+      }
+    ]
+  }
+]

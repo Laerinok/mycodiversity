@@ -1,0 +1,26 @@
+[
+	{
+		"file": "game:recipes/cooking/meatystew.json",
+		"op": "addmerge",
+		"path": "/ingredients/5/validStacks/-",
+		"value": { 
+			"type": "item", 
+			"code": "mycodiversity:choppedmushroom-*", 
+			"shapeElement": "bowl/vegetable 1/*", 
+			"textureMapping": ["vegetable", "group3"]
+		},
+		"dependsOn": [{ "modid": "expandedfoods" }]
+	},
+	{
+		"file": "game:recipes/cooking/meatystew.json",
+		"op": "addmerge",
+		"path": "/ingredients/6/validStacks/-",
+		"value": { 
+			"type": "item", 
+			"code": "mycodiversity:choppedmushroom-*", 
+			"shapeElement": "bowl/vegetable 2/*", 
+			"textureMapping": ["vegetable", "group3"]
+		},
+		"dependsOn": [{ "modid": "expandedfoods" }]
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"file": "game:recipes/cooking/riceandbeans.json",
+		"op": "addmerge",
+		"path": "/ingredients/2/validStacks/-",
+		"value": { 
+			"type": "item", 
+			"code": "mycodiversity:choppedmushroom-*", 
+			"shapeElement": "bowl/vegetable 1/*", 
+			"textureMapping": ["vegetable", "group3"]
+		},
+		"dependsOn": [{ "modid": "expandedfoods" }]
+	},
+	{
+		"file": "game:recipes/cooking/riceandbeans.json",
+		"op": "addmerge",
+		"path": "/ingredients/3/validStacks/-",
+		"value": { 
+			"type": "item", 
+			"code": "mycodiversity:choppedmushroom-*", 
+			"shapeElement": "bowl/vegetable 2/*", 
+			"textureMapping": ["vegetable", "group3"]
+		},
+		"dependsOn": [{ "modid": "expandedfoods" }]
+	}
+]

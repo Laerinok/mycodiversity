@@ -1,0 +1,11 @@
+[
+	{
+		code: "dye-blue",
+		sealHours: 8,
+		ingredients: [
+			{ type: "item", code: "game:waterportion", litres: 4 },
+			{ type: "block", code: "game:mushroom-turkeytail-normal-north", quantity: 4 }
+		],
+		output: { type: "item", code: "game:dye-blue", litres: 4 }
+	}
+]

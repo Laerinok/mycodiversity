@@ -1,0 +1,16 @@
+[
+    {
+      "file": "game:blocktypes/plant/mycodiversity-mushroom-side.json",
+      "dependsOn": [{ "modid": "substrate" }],
+      "op": "addmerge",
+      "path": "/attributes/sporeharvestable",
+      "value": true
+    },
+    {
+      "file": "game:blocktypes/plant/mycodiversity-mushroom.json",
+      "dependsOn": [{ "modid": "substrate" }],
+      "op": "addmerge",
+      "path": "/attributes/sporeharvestable",
+      "value": true
+    }
+  ]
